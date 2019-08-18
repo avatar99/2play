@@ -1,6 +1,6 @@
-﻿token= NjEyMzUzNzgxMjU4MTI1NDAx.XVmMQQ.bl1edrCYJo9DrX__P_zscuHie9U
+token=NjEyNzA4NTI4Mjg0NzYyMTIw.XVmXRw.yPhX1cvg2mASOV9JKHUImYTtjlc
 owner= 600369127907131412
-prefix=1
-game= 1play
+prefix=2
+game= 2Play | DarkSide
 stayinchannel=true
 songinstatus=false 
